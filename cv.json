@@ -163,7 +163,8 @@
         "Vende tu propia ropa",
         "Pagos online"
       ],
-      "url": "https://stylus-shop.vercel.app/"
+      "url": "https://stylus-shop.vercel.app/",
+      "github": "https://github.com/developaul/stylus-shop"
     },
     {
       "name": "Task Manager",
@@ -172,7 +173,8 @@
       "highlights": [
         "Clon de trello"
       ],
-      "url": "https://task-manager-cd8af.web.app/"
+      "url": "https://task-manager-cd8af.web.app/",
+      "github": "https://github.com/developaul/task-manager-react"
     },
     {
       "name": "Movie App",
@@ -181,7 +183,8 @@
       "highlights": [
         "Mirar últimos tráilers"
       ],
-      "url": "https://keen-wilson-cf2ebe.netlify.app/"
+      "url": "https://keen-wilson-cf2ebe.netlify.app/",
+      "github": "https://github.com/developaul/movie-react"
     }
   ]
 }
