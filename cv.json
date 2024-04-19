@@ -179,7 +179,7 @@
     {
       "name": "Movie App",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Aplicación Web de películas, donde podras visualizar trailers desde las últimas peliculas hasta las clasicas.",
       "highlights": [
         "Mirar últimos tráilers"
       ],
