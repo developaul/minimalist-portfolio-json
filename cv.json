@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Paul Chavez",
-    "label": "Software Developer con más de 3 años de experiencia",
+    "label": "Software Engineer con más de 3 años de experiencia",
     "image": "/me.png",
     "email": "paulchavezromero20@gmail.com",
     "phone": "+51 957383385",
     "url": "https://developaul.com",
-    "summary": "+3 años como Software Developer, Vivo en Lima, Peru. He trabajado en entornos de reclutamiento. Me he destacado en la creación de soluciones innovadoras tanto en el frontend como en el backend.",
+    "summary": "+3 años como Software Engineer, me he destacado por valores como la integridad, la colaboración y la innovación. He liderado proyectos exitosos que mejoran la eficiencia y la experiencia del usuario. Mi motivación es continuar aprendiendo y creciendo en un entorno dinámico aportando mi experiencia y pasión por la tecnología.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -35,7 +35,7 @@
   "work": [
     {
       "name": "krowdy",
-      "position": "Software Developer",
+      "position": "Software Engineer",
       "url": "https://www.krowdy.com",
       "startDate": "2021-04-19",
       "endDate": "2024-04-30",
